@@ -245,7 +245,5 @@ const checkout = async () => {
 
 ---
 
-¿Listo para gritar “¡Kamehameha!” y lanzar tu primera compra? 😄
-
 
 
